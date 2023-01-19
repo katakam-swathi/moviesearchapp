@@ -1,0 +1,74 @@
+.div{
+    display: flex;
+    flex-direction: column;
+
+}
+#upperdiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+} 
+#search{
+        width:6rem ;
+        height: 2rem;
+        border-radius: o.2cm;
+        margin: 1rem;
+}
+#input{
+    height: 2rem;
+    width: 20rem;
+    text-align: center;
+    background-color: rgb(238, 226, 226);
+    color: black;
+    border: none;
+    cursor: pointer;
+    border-radius: 0.4px;
+}
+#maindiv{
+    width: 80%;
+    margin: auto;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.moviecard{
+    width: 310px;
+    height: 600px;
+    overflow: hidden;
+    margin: 1rem;
+}
+
+p{
+    margin: 0px;
+    font-size: 1.3rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
